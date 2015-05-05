@@ -1,4 +1,3 @@
-#include <QCoreApplication>
 #include <iostream>
 
 int func(int arr[], int n) {
@@ -14,10 +13,7 @@ int func(int arr[], int n) {
 
 int main(int argc, char *argv[])
 {
-
     int arr[] = { 1, 2, 3, -5 };
-
     int min = func(arr, 4);
-
-    std::cout << "min " << min;
+    std::cout << "min " << min << std::endl;
 }
