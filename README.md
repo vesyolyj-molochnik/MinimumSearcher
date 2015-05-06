@@ -1,1 +1,1 @@
-# MinimumSeatcher
+# MinimumSearcher
